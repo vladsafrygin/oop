@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/oop.dir/main.cpp.o CMakeFiles/oop.dir/weather.cpp.o CMakeFiles/oop.dir/centers_array.cpp.o  -o oop 

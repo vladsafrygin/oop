@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladilsav/Документы/oop/centers_array.cpp
+centers_array.h
+/home/vladilsav/Документы/oop/centers_array.h
+cassert
+-
+fstream
+-
+cmath
+-
+
+/home/vladilsav/Документы/oop/centers_array.h
+weather.h
+/home/vladilsav/Документы/oop/weather.h
+string
+-
+
+/home/vladilsav/Документы/oop/main.cpp
+iostream
+-
+weather.h
+/home/vladilsav/Документы/oop/weather.h
+centers_array.h
+/home/vladilsav/Документы/oop/centers_array.h
+vector
+-
+cassert
+-
+
+/home/vladilsav/Документы/oop/weather.cpp
+weather.h
+/home/vladilsav/Документы/oop/weather.h
+cassert
+-
+
+/home/vladilsav/Документы/oop/weather.h
+iostream
+-
+
